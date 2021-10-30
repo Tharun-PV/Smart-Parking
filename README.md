@@ -1,9 +1,5 @@
 # Smart-Parking
 
-It is composed of two scripts with the following roles:
-Select the coordinates of the parking spaces and save them into a file.
-Get the coordinates from the file and decide if the spot is available or not.
-
 ## Overview:
 ![alt text](https://github.com/Tharun-PV/Smart-Parking/blob/b8d8b09d279ea6b713f6dfe2ded953b595f57c2c/Sample%20Output/Sample_output.png)
 
