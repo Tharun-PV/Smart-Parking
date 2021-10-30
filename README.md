@@ -6,7 +6,7 @@ Get the coordinates from the file and decide if the spot is available or not.
 
 #Program flow is as follows:
 
-    User inputs file name for a video, a still image from the video, and a path for the output file of parking space coordinates.
+   User inputs file name for a video, a still image from the video, and a path for the output file of parking space coordinates.
 User clicks 4 corners for each spot they want tracked. Presses 'q' when all desired spots are marked.
 Video begins with the user provided boxes overlayed the video. Occupied spots initialized with red boxes, available spots with green.
 Car leaves a space, the red box turns green.
